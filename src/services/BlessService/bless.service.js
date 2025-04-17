@@ -8,7 +8,8 @@ const demoData = [
         _id:"1ABC",
         header:"Hello Bless",
         blessData: "I want to bless you",
-        createdAt: "12312412412"
+        createdAt: 1231231241,
+        updatedAt: 1231231241,
     }
 ]
 
